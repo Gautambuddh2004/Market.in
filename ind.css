@@ -1,0 +1,59 @@
+#navbar{
+  
+    background-color: black;
+    height:80px;
+   color: azure;
+   padding-left: 10px;
+ 
+}
+#hi{
+    font-style: inherit;
+    font-size: 60px;
+    color: rgb(255, 255, 50);
+}
+#ht{
+    padding-right: 40px;
+}
+#gi{
+    background-color: rgb(255, 167, 34);
+}
+#ji{
+    padding-left: 650px;
+    font-size:20px;
+    color:azure;
+}
+#ki{
+    padding-left:30px ;
+    font-size: 20px;
+    color:azure;
+}
+button{
+    background-color: rgb(255, 167, 34);
+}
+#sd{
+    font-size: 30px;
+  
+}
+
+ul li a{
+    margin-inline: 55px;
+    font-size: 22px;
+    list-style: none;
+}
+#hy{
+    padding-left: 500px;
+
+}
+#call{
+    padding-left: 600px;
+}
+#navbar1{
+    background-color: rgb(28, 32, 32);
+   height: 600px;
+   border-radius: 30px;
+   color:white
+}
+.container:hover{
+height: 405px;
+width: 305px;
+}
